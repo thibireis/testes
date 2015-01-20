@@ -1,0 +1,1 @@
+67#http://webservice.epoca-distribuicao.com.br:8081/EpocaWS/Service.asmx
