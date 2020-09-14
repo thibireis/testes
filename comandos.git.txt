@@ -1,9 +1,0 @@
-Git trabalha com repositorios
-
-Comandos       O que faz
-git            verificar se foi instalado 
-git init       iniciar repositorio
-git status     ver se ha arquivo não versionado
-git add        adicionar arquivos no repositorio (arquivos que estao para ser "commitados")
-git branch     Ver em que "galho" estou
-git log        Visualizar as alterações nos arquivos
